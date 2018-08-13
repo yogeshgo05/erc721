@@ -1,5 +1,4 @@
-###### H6
-Basic Instruction to Run on Rinkeby. 
+### Basic Instruction to Run on Rinkeby. 
 
 
 Open up the truffle.js file in the folder and set your rpc url and account from which you wish to deploy your code from and also make sure you have enough ether in the account. 
